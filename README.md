@@ -26,6 +26,10 @@
 │   ├── 13_短信与超距通信记录.md
 │   ├── 14_游戏数据与机制详解.md
 │   └── 15_同人文化与社区创作.md
+├── SillyTavern角色卡/           ← 可导入角色卡
+│   ├── Firefly.png              拖入SillyTavern即可使用
+│   ├── card_data.json           角色卡源数据
+│   └── build_card.py            一键重新生成
 └── data/
     ├── images/                 ← 官方美术 (50张)
     ├── stickers/               ← 游戏表情包 (259张)
